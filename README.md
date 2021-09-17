@@ -25,9 +25,15 @@ Collect them. More to come ...
 ![Torpedo1](img/torpedoG1200/torpedo9.png)
 ![Torpedo1](img/torpedoG1200/torpedo10.png)
 
+### TORPEDO Generation 2 is coming soon
+
 ## Marketplace
 
-[Torpedo NFT](https://ba.net/torpedo) - coming soon
+[Torpedo smartBCH NFT Marketplace](https://mazetoken.github.io/torpedonft)
+
+Torpedo NFT images are stored on [IPFS](https://ipfs.io) 
+
+_This is not an investment advice or recommendation. You are purchasing NFT (Non-Fungible Token), but not an image/artwork attached to the token. You can resell TORPEDO NFT, and use images for non-commercial purposes. Ask [ba.net](https://ba.net) if you want to use the marketplace code._
 
 ## Wallet
 
@@ -48,7 +54,7 @@ Currency Symbol: BCH
 
 - Add the token as usual - „+ Add tokens”, paste TORPEDO NFT contract id, but type manually token symbol (TORPEDO) and set decimals 0
 
-- Go to NFTs tab and tap „+ Add NFTs”, then paste contract id again and type token id (TORPEDO NFT token ids are 1, 2, 3, 4, …, 100). You might need to tap „Add” twice
+- Go to NFTs tab and tap „+ Add NFTs”, then paste contract id again and type colectible id (TORPEDO NFT collectible ids are 1, 2, 3, 4, …, 100). You might need to tap „Add” twice
 
 - To send NFTs you need to do it from the NFT tab. Set gas proce to 1.047 gwei
 

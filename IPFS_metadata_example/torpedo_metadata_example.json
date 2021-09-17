@@ -1,0 +1,21 @@
+{
+  "name": "TORPEDO",
+  "description": "Torpedos are friendly creatures, but they attack when they are hungry.",  
+  "image": "https://gateway.pinata.cloud/ipfs/Qm.../torpedo.png",
+  "attributes": [
+    {
+      "trait_type": "Level", 
+      "value": "Legendary"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "...", 
+      "value": 1
+    }
+  ]
+}
