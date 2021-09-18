@@ -31,18 +31,17 @@ Collect them. More to come ...
 
 [Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo)
 
-[TORPEDO NFT Manager](https://ba.net/torpedo/nft/wallet.html)
+[TORPEDO NFT Wallet Manager](https://ba.net/torpedo/nft/wallet.html)
 
-or
+[Sell yout TORPEDO NFT](https://ba.net/torpedo/sell.html)
 
-[Torpedo smartBCH NFT Marketplace](https://mazetoken.github.io/torpedoNFT)
+[Check your TORPEDO for sale](https://ba.net/torpedo) - paste your address in seller account
 
-[TORPEDO NFT Manager](https://mazetoken.github.io/torpedoNFT/torpedowallet.html)
-
+[TORPEDO NFT exchange address](https://www.smartscan.cash/address/0x4DF941C3356DA878D07E18906fCcd4FBc48eeD58)
 
 Torpedo NFT images are stored on [IPFS](https://ipfs.io) 
 
-_This is not an investment advice or recommendation. You are purchasing NFT (Non-Fungible Token), but not an image/artwork attached to the token. You can resell TORPEDO NFT, and use images for non-commercial purposes. Ask [ba.net](https://ba.net) if you want to use the marketplace code._
+_This is not an investment advice or recommendation. You are purchasing NFT (Non-Fungible Token), but not an image/artwork attached to the token. You can resell TORPEDO NFT, and use images for non-commercial purposes.
 
 ## Wallet
 
