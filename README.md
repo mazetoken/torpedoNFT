@@ -33,9 +33,9 @@ Collect them. More to come ...
 
 [TORPEDO NFT Wallet Manager](https://ba.net/torpedo/nft/wallet.html)
 
-[Sell yout TORPEDO NFT](https://ba.net/torpedo/sell.html)
+[Sell your TORPEDO NFT](https://ba.net/torpedo/sell.html)
 
-[Check your TORPEDO for sale](https://ba.net/torpedo) - paste your address in seller account
+[Check your TORPEDO NFT listing](https://ba.net/torpedo) - paste your address in the seller account field
 
 [TORPEDO NFT exchange address](https://www.smartscan.cash/address/0x4DF941C3356DA878D07E18906fCcd4FBc48eeD58)
 
