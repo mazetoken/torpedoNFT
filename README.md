@@ -29,11 +29,15 @@ Collect them. More to come ...
 
 ## Marketplace
 
-[Torpedo smartBCH NFT Marketplace](https://torpedonft.herokuapp.com)
+[Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo)
+
+[TORPEDO NFT Manager](https://ba.net/torpedo/nft/wallet.html)
 
 or
 
 [Torpedo smartBCH NFT Marketplace](https://mazetoken.github.io/torpedoNFT)
+
+[TORPEDO NFT Manager](https://mazetoken.github.io/torpedoNFT/torpedowallet.html)
 
 
 Torpedo NFT images are stored on [IPFS](https://ipfs.io) 
