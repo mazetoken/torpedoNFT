@@ -2,11 +2,9 @@
 
 ## Living on Bitcoin Cash blockchain (smartBCH network)
 
-_Torpedos are friendly creatures, but they can attack when they are hungry._
+_Torpedos are friendly creatures, but they attack when they are hungry._
 
 `Contract id: 0x74d731274c6c4ce78e070357160255a2596da71d`
-
-smartBCH [explorer](https://www.smartscan.cash/address/0x74d731274C6c4ce78E070357160255A2596DA71d)
 
 ### TORPEDO Generation 1
 
@@ -29,7 +27,7 @@ Collect them. More to come ...
 
 ## Marketplace
 
-[Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT
+[Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT. Save Torpedo NFT Order Code - you might need it if you want to sell it later or cancel sale
 
 [TORPEDO NFT Wallet Manager](https://ba.net/torpedo/nft/wallet.html) - check your TORPEDO NFT collectible id
 
@@ -37,9 +35,13 @@ Collect them. More to come ...
 
 [Check TORPEDO NFT listing](https://ba.net/torpedo) - paste your (seller) address in the seller account field
 
-[Cancel sale](https://ba.net/torpedo/cancel.html)
+[Share a link to your TORPEDO NFT for sale](https://ba.net/torpedo/share.html?seller=0xA891fd056eBDD4b90b05Ef319b15f8C275B9671e) - replace 0x... with your addrres
+
+[Cancel sale](https://ba.net/torpedo/cancel.html) - use Torpedo NFT Order Code
 
 [TORPEDO NFT exchange address](https://www.smartscan.cash/address/0x4DF941C3356DA878D07E18906fCcd4FBc48eeD58)
+
+smartBCH [explorer](https://www.smartscan.cash/address/0x74d731274C6c4ce78E070357160255A2596DA71d)
 
 Torpedo images are stored on [IPFS](https://ipfs.io) 
 
