@@ -14,16 +14,16 @@ smartBCH [explorer](https://www.smartscan.cash/address/0x74d731274C6c4ce78E07035
 
 Collect them. More to come ...
 
-![Torpedo1](img/torpedoG1200/torpedo1.png) collectible id: 1-10
-![Torpedo1](img/torpedoG1200/torpedo2.png) collectible id: 11-20
-![Torpedo1](img/torpedoG1200/torpedo3.png) collectible id: 21-30
-![Torpedo1](img/torpedoG1200/torpedo4.png) collectible id: 31-40
-![Torpedo1](img/torpedoG1200/torpedo5.png) collectible id: 41-50
-![Torpedo1](img/torpedoG1200/torpedo8.png) collectible id: 51-60
-![Torpedo1](img/torpedoG1200/torpedo6.png) collectible id: 61-70
-![Torpedo1](img/torpedoG1200/torpedo7.png) collectible id: 71-80
-![Torpedo1](img/torpedoG1200/torpedo9.png) collectible id: 81-90
-![Torpedo1](img/torpedoG1200/torpedo10.png) collectible id: 91-100
+![Torpedo1](img/torpedoG1200/torpedo1.png) id: 1-10
+![Torpedo1](img/torpedoG1200/torpedo2.png) id: 11-20
+![Torpedo1](img/torpedoG1200/torpedo3.png) id: 21-30
+![Torpedo1](img/torpedoG1200/torpedo4.png) id: 31-40
+![Torpedo1](img/torpedoG1200/torpedo5.png) id: 41-50
+![Torpedo1](img/torpedoG1200/torpedo8.png) id: 51-60
+![Torpedo1](img/torpedoG1200/torpedo6.png) id: 61-70
+![Torpedo1](img/torpedoG1200/torpedo7.png) id: 71-80
+![Torpedo1](img/torpedoG1200/torpedo9.png) id: 81-90
+![Torpedo1](img/torpedoG1200/torpedo10.png) id: 91-100
 
 ### TORPEDO Generation 2 is coming soon
 
