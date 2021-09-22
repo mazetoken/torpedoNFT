@@ -27,7 +27,7 @@ Collect them. More to come ...
 
 ## Marketplace
 
-[Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT. Save Torpedo NFT Order Code - you might need it if you want to sell it later or cancel sale
+[Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT.
 
 [TORPEDO NFT Wallet Manager](https://ba.net/torpedo/nft/wallet.html) - check your TORPEDO NFT collectible id
 
@@ -37,7 +37,7 @@ Collect them. More to come ...
 
 [Share a link to your TORPEDO NFT for sale](https://ba.net/torpedo/share.html?seller=0xA891fd056eBDD4b90b05Ef319b15f8C275B9671e) - replace 0x... with your addrres
 
-[Cancel sale](https://ba.net/torpedo/cancel.html) - use Torpedo NFT Order Code
+[Cancel sale](https://ba.net/torpedo/cancel.html) - you might not need it, you can just buy back your nft. However if you decide to cancel, you need to click "buy" on your own token first and copy order id and then paste it to cancel form
 
 [TORPEDO NFT exchange address](https://www.smartscan.cash/address/0x4DF941C3356DA878D07E18906fCcd4FBc48eeD58)
 
