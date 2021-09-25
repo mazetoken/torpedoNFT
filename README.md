@@ -6,25 +6,6 @@ _Torpedos are friendly creatures, but they attack when they are hungry._
 
 `Contract id: 0x74d731274c6c4ce78e070357160255a2596da71d`
 
-### TORPEDO Generation 1
-
-10 groups, 10 Torpedos in each group.
-
-Collect them. More to come ...
-
-![Torpedo1](img/torpedoG1200/torpedo1.png) id: 1-10
-![Torpedo1](img/torpedoG1200/torpedo2.png) id: 11-20
-![Torpedo1](img/torpedoG1200/torpedo3.png) id: 21-30
-![Torpedo1](img/torpedoG1200/torpedo4.png) id: 31-40
-![Torpedo1](img/torpedoG1200/torpedo5.png) id: 41-50
-![Torpedo1](img/torpedoG1200/torpedo8.png) id: 51-60
-![Torpedo1](img/torpedoG1200/torpedo6.png) id: 61-70
-![Torpedo1](img/torpedoG1200/torpedo7.png) id: 71-80
-![Torpedo1](img/torpedoG1200/torpedo9.png) id: 81-90
-![Torpedo1](img/torpedoG1200/torpedo10.png) id: 91-100
-
-### TORPEDO Generation 2 is coming soon
-
 ## Marketplace
 
 [Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT.
@@ -69,6 +50,38 @@ Currency Symbol: BCH
 - Go to NFTs tab and tap „+ Add NFTs”, then paste contract id again and type colectible id (TORPEDO NFT collectible ids are 1, 2, 3, 4, …, 100). You might need to tap „Add” twice
 
 - To send NFTs you need to do it from the NFT tab. Set gas price to 1.047 gwei
+
+---------------------------------------------------------------------
+
+### TORPEDO Generation 1
+
+10 groups, 10 Torpedos in each group.
+
+![Torpedo1](img/torpedoG1200/torpedo1.png) id: 1-10
+![Torpedo1](img/torpedoG1200/torpedo2.png) id: 11-20
+![Torpedo1](img/torpedoG1200/torpedo3.png) id: 21-30
+![Torpedo1](img/torpedoG1200/torpedo4.png) id: 31-40
+![Torpedo1](img/torpedoG1200/torpedo5.png) id: 41-50
+![Torpedo1](img/torpedoG1200/torpedo8.png) id: 51-60
+![Torpedo1](img/torpedoG1200/torpedo6.png) id: 61-70
+![Torpedo1](img/torpedoG1200/torpedo7.png) id: 71-80
+![Torpedo1](img/torpedoG1200/torpedo9.png) id: 81-90
+![Torpedo1](img/torpedoG1200/torpedo10.png) id: 91-100
+
+### TORPEDO Generation 2
+
+10 groups, 10 Torpedos in each group.
+
+![Torpedo1](img/torpedoG2200/torpedo11.png) id: 101-110
+![Torpedo1](img/torpedoG2200/torpedo12.png) id: 111-120
+![Torpedo1](img/torpedoG2200/torpedo13.png) id: 121-130
+![Torpedo1](img/torpedoG2200/torpedo14.png) id: 131-140
+![Torpedo1](img/torpedoG2200/torpedo15.png) id: 141-150
+![Torpedo1](img/torpedoG2200/torpedo16.png) id: 151-160
+![Torpedo1](img/torpedoG2200/torpedo17.png) id: 161-170
+![Torpedo1](img/torpedoG2200/torpedo18.png) id: 171-180
+![Torpedo1](img/torpedoG2200/torpedo19.png) id: 181-190
+![Torpedo1](img/torpedoG2200/torpedo20.png) id: 191-200
 
 ---------------------------------------------------------------------
 
