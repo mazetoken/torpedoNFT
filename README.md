@@ -1,12 +1,19 @@
-# TORPEDO smartBCH Non-Fungible Token
+# TORPEDO NFT series - smartBCH Non-Fungible Token
 
 ## Living on Bitcoin Cash blockchain (smartBCH network)
 
-_Torpedos are friendly creatures, but they attack when they are hungry._
+![Torpedo1](img/torpedoG1200/torpedo1.png) Generation 1 - example
+![Torpedo2](img/torpedoG2200/torpedo11.png) Generation 2 - example
+![TorpedoSE](img/torpedoSE/torpedoSE3-200.png) Special Edition - example 1
+![TorpedoSE](img/torpedoSE/torpedoSE11-200.png) Special Edition - example 2
+
+_Scroll down to see all Torpedos. Collect them all._
+
+## _Torpedos are friendly creatures, but they attack when they are hungry._
 
 `Contract id: 0x74d731274c6c4ce78e070357160255a2596da71d`
 
-## Marketplace
+## Marketplace (works best on desktop)
 
 [Torpedo smartBCH NFT Marketplace](https://ba.net/torpedo) - "lootbox" is one random TORPEDO NFT.
 
@@ -21,6 +28,8 @@ _Torpedos are friendly creatures, but they attack when they are hungry._
 [Cancel sale](https://ba.net/torpedo/cancel.html) - you might not need it, you can just buy back your nft. However if you decide to cancel, you need to click "buy" on your own token first and copy order id and then paste it to cancel form
 
 [TORPEDO NFT exchange address](https://www.smartscan.cash/address/0x4DF941C3356DA878D07E18906fCcd4FBc48eeD58)
+
+[TORPEDO NFT Special Edition](market.md) Special Market
 
 smartBCH [explorer](https://www.smartscan.cash/address/0x74d731274C6c4ce78E070357160255A2596DA71d)
 
@@ -47,7 +56,7 @@ Currency Symbol: BCH
 
 - Add the token as usual - „+ Add tokens”, paste TORPEDO NFT contract id, but type manually token symbol (TORPEDO) and set decimals 0
 
-- Go to NFTs tab and tap „+ Add NFTs”, then paste contract id again and type colectible id (TORPEDO NFT collectible ids are 1, 2, 3, 4, …, 100). You might need to tap „Add” twice
+- Go to NFTs tab and tap „+ Add NFTs”, then paste contract id again and type colectible id (TORPEDO NFT collectible ids are 1, 2, 3, 4, …, 215). You might need to tap „Add” twice
 
 - To send NFTs you need to do it from the NFT tab. Set gas price to 1.047 gwei
 
@@ -72,22 +81,30 @@ Currency Symbol: BCH
 
 10 groups, 10 Torpedos in each group.
 
-![Torpedo1](img/torpedoG2200/torpedo11.png) id: 101-110
-![Torpedo1](img/torpedoG2200/torpedo12.png) id: 111-120
-![Torpedo1](img/torpedoG2200/torpedo13.png) id: 121-130
-![Torpedo1](img/torpedoG2200/torpedo14.png) id: 131-140
-![Torpedo1](img/torpedoG2200/torpedo15.png) id: 141-150
-![Torpedo1](img/torpedoG2200/torpedo16.png) id: 151-160
-![Torpedo1](img/torpedoG2200/torpedo17.png) id: 161-170
-![Torpedo1](img/torpedoG2200/torpedo18.png) id: 171-180
-![Torpedo1](img/torpedoG2200/torpedo19.png) id: 181-190
-![Torpedo1](img/torpedoG2200/torpedo20.png) id: 191-200
+![Torpedo2](img/torpedoG2200/torpedo11.png) id: 101-110
+![Torpedo2](img/torpedoG2200/torpedo12.png) id: 111-120
+![Torpedo2](img/torpedoG2200/torpedo13.png) id: 121-130
+![Torpedo2](img/torpedoG2200/torpedo14.png) id: 131-140
+![Torpedo2](img/torpedoG2200/torpedo15.png) id: 141-150
+![Torpedo2](img/torpedoG2200/torpedo16.png) id: 151-160
+![Torpedo2](img/torpedoG2200/torpedo17.png) id: 161-170
+![Torpedo2](img/torpedoG2200/torpedo18.png) id: 171-180
+![Torpedo2](img/torpedoG2200/torpedo19.png) id: 181-190
+![Torpedo2](img/torpedoG2200/torpedo20.png) id: 191-200
+
+### TORPEDO Special Edition
+
+30 minted (token id: 201-230)
 
 ---------------------------------------------------------------------
 
 Powered by [MAZE Token](https://mazetoken.github.io)
 
 Telegram [group](https://t.me/mazetokens)
+
+Torpedo [Github](https://github.com/mazetoken/torpedoNFT) repository
+
+Special thanks to [Ba.net](https://ba.net)
 
 Donation for Torpedo food:
 
