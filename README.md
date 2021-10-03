@@ -4,8 +4,8 @@
 
 ![Torpedo1](img/torpedoG1200/torpedo1.png) Generation 1 - example
 ![Torpedo2](img/torpedoG2200/torpedo11.png) Generation 2 - example
-![TorpedoSE](img/torpedoSE/torpedoSE3-200.png) Special Edition - example 1
-![TorpedoSE](img/torpedoSE/torpedoSE11-200.png) Special Edition - example 2
+![TorpedoSE](img/torpedoSE/TorpedoSE3-200.png) Special Edition - example 1
+![TorpedoSE](img/torpedoSE/TorpedoSE11-200.png) Special Edition - example 2
 
 _Scroll down to see all Torpedos. Collect them all._
 
