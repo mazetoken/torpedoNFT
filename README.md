@@ -6,7 +6,7 @@
 
 ![Torpedo2](img/201.png) ![Torpedo2](img/221.png)
 
-_Scroll down to see all Torpedos. Collect them all._
+_Scroll down to see all Torpedos._
 
 ## _Torpedos are friendly creatures, but they attack when they are hungry._
 
@@ -113,7 +113,7 @@ Currency Symbol: BCH
 
 Powered by [MAZE Token](https://mazetoken.github.io)
 
-![MAZE](maze00.png)
+![MAZE](maze200.png)
 
 Telegram [group](https://t.me/mazetokens)
 
